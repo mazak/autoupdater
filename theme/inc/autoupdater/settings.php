@@ -1,11 +1,11 @@
 <?php 
 
 // which theme should be updated (you can point to a different theme - recommended)
-$theme_to_update = 'simpletest';
+$theme_to_update = '';
 
 
 // location of the api folder
-$api_url = 'http://home.dev/2015/api';
+$api_url = '';
 
 
 $run_every_time_in_admin = false;
