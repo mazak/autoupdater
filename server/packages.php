@@ -6,9 +6,9 @@ $packages['simpletest'] = array( //Replace theme with theme stylesheet slug that
     'version' => '1.0', //Current version available
     'date' => '2015-07-03', //Date version was released
     //theme.zip is the same as file_name
-    'package' => 'http://API_URL/download.php?key=' . md5('ellensue_1.0.zip' . mktime(0,0,0,date("m"),date("d"),date("Y"))),
+    'package' => 'http://API_URL/download.php?key=' . md5('THEME_SLUG.zip' . mktime(0,0,0,date("m"),date("d"),date("Y"))),
     //file_name is the name of the file in the update folder.
-    'file_name' => 'themeslug.zip', //File name of theme zip file
+    'file_name' => 'THEME_SLUG.zip', //File name of theme zip file
     'author' => '', //Author of theme
     'name' => '', //Name of theme
     'requires' => '3.3', //Wordpress version required
