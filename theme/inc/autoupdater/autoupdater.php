@@ -108,7 +108,7 @@ function autoupdater_refresh_theme(){
 
 
 
-
+    $theme = $theme_to_update;
     $title = __('Update Theme');
     $parent_file = 'themes.php';
     $submenu_file = 'themes.php';
