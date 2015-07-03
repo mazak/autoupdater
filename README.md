@@ -1,2 +1,4 @@
 # autoupdater
-Automatic updates for WordPress theme
+
+Simple essentials for making your WordPress theme update automatically.
+
